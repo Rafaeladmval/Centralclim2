@@ -20,7 +20,7 @@
             android:layout_height="180dp"
             android:layout_marginTop="38dp"
             android:contentDescription="Ilustração de recuperação de senha"
-            android:src="@drawable/RecuperarSenha"
+            android:src="@drawable/recuperarsenha"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:gravity="center"
-            android:text="Insira seu e-mail para que sua senha seja reenviada"
+            android:text="Insira seu e-mail para enviarmos o e-mail de recuperação de senha"
             android:textColor="@android:color/darker_gray"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
